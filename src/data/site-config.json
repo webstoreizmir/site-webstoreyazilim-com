@@ -1,7 +1,10 @@
 {
   "metadata": {
     "title": "WebStore | İzmir Web Tasarım ve Yazılım Çözümleri",
-    "description": "İzmir'deki küçük işletmeler ve girişimciler için deneyim ve kaliteyi birleştiren özel web tasarım, yazılım ve otomasyon hizmetleri."
+    "description": "İzmir'deki küçük işletmeler ve girişimciler için deneyim ve kaliteyi birleştiren özel web tasarım, yazılım ve otomasyon hizmetleri.",
+    "isPaid": true,
+    "paidAt": "2026-01-13T05:31:38.043Z",
+    "demoMode": false
   },
   "theme": {
     "colors": {
