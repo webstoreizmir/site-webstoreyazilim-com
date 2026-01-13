@@ -110,5 +110,6 @@
       "email": "info@izmirwebstore.com",
       "map_query": "Izmir Konak"
     }
-  }
+  },
+  "is_paid": true
 }
