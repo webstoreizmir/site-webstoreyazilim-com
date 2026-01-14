@@ -1,1 +1,23 @@
-=
+={
+  "name": "site-config.json",
+  "path": "src/data/site-config.json",
+  "sha": "851c75cc5e74cf97d145360755d116d2409881f2",
+  "size": 1,
+  "url": "https://api.github.com/repos/webstoreizmir/site-webstoreyazilim-com/contents/src/data/site-config.json?ref=main",
+  "html_url": "https://github.com/webstoreizmir/site-webstoreyazilim-com/blob/main/src/data/site-config.json",
+  "git_url": "https://api.github.com/repos/webstoreizmir/site-webstoreyazilim-com/git/blobs/851c75cc5e74cf97d145360755d116d2409881f2",
+  "download_url": "https://raw.githubusercontent.com/webstoreizmir/site-webstoreyazilim-com/main/src/data/site-config.json",
+  "type": "file",
+  "content": "PQ==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/webstoreizmir/site-webstoreyazilim-com/contents/src/data/site-config.json?ref=main",
+    "git": "https://api.github.com/repos/webstoreizmir/site-webstoreyazilim-com/git/blobs/851c75cc5e74cf97d145360755d116d2409881f2",
+    "html": "https://github.com/webstoreizmir/site-webstoreyazilim-com/blob/main/src/data/site-config.json"
+  },
+  "metadata": {
+    "isPaid": true,
+    "demoMode": false,
+    "lastUpdate": "2026-01-14T03:24:43.952Z"
+  }
+}
