@@ -1,23 +1,23 @@
 ={
   "name": "site-config.json",
   "path": "src/data/site-config.json",
-  "sha": "851c75cc5e74cf97d145360755d116d2409881f2",
-  "size": 1,
+  "sha": "5453ad5cdcc6be4c09a3b2f0e4eb85f69ff221c9",
+  "size": 1194,
   "url": "https://api.github.com/repos/webstoreizmir/site-webstoreyazilim-com/contents/src/data/site-config.json?ref=main",
   "html_url": "https://github.com/webstoreizmir/site-webstoreyazilim-com/blob/main/src/data/site-config.json",
-  "git_url": "https://api.github.com/repos/webstoreizmir/site-webstoreyazilim-com/git/blobs/851c75cc5e74cf97d145360755d116d2409881f2",
+  "git_url": "https://api.github.com/repos/webstoreizmir/site-webstoreyazilim-com/git/blobs/5453ad5cdcc6be4c09a3b2f0e4eb85f69ff221c9",
   "download_url": "https://raw.githubusercontent.com/webstoreizmir/site-webstoreyazilim-com/main/src/data/site-config.json",
   "type": "file",
-  "content": "PQ==\n",
+  "content": "PXsKICAibmFtZSI6ICJzaXRlLWNvbmZpZy5qc29uIiwKICAicGF0aCI6ICJz\ncmMvZGF0YS9zaXRlLWNvbmZpZy5qc29uIiwKICAic2hhIjogIjg1MWM3NWNj\nNWU3NGNmOTdkMTQ1MzYwNzU1ZDExNmQyNDA5ODgxZjIiLAogICJzaXplIjog\nMSwKICAidXJsIjogImh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvd2Vi\nc3RvcmVpem1pci9zaXRlLXdlYnN0b3JleWF6aWxpbS1jb20vY29udGVudHMv\nc3JjL2RhdGEvc2l0ZS1jb25maWcuanNvbj9yZWY9bWFpbiIsCiAgImh0bWxf\ndXJsIjogImh0dHBzOi8vZ2l0aHViLmNvbS93ZWJzdG9yZWl6bWlyL3NpdGUt\nd2Vic3RvcmV5YXppbGltLWNvbS9ibG9iL21haW4vc3JjL2RhdGEvc2l0ZS1j\nb25maWcuanNvbiIsCiAgImdpdF91cmwiOiAiaHR0cHM6Ly9hcGkuZ2l0aHVi\nLmNvbS9yZXBvcy93ZWJzdG9yZWl6bWlyL3NpdGUtd2Vic3RvcmV5YXppbGlt\nLWNvbS9naXQvYmxvYnMvODUxYzc1Y2M1ZTc0Y2Y5N2QxNDUzNjA3NTVkMTE2\nZDI0MDk4ODFmMiIsCiAgImRvd25sb2FkX3VybCI6ICJodHRwczovL3Jhdy5n\naXRodWJ1c2VyY29udGVudC5jb20vd2Vic3RvcmVpem1pci9zaXRlLXdlYnN0\nb3JleWF6aWxpbS1jb20vbWFpbi9zcmMvZGF0YS9zaXRlLWNvbmZpZy5qc29u\nIiwKICAidHlwZSI6ICJmaWxlIiwKICAiY29udGVudCI6ICJQUT09XG4iLAog\nICJlbmNvZGluZyI6ICJiYXNlNjQiLAogICJfbGlua3MiOiB7CiAgICAic2Vs\nZiI6ICJodHRwczovL2FwaS5naXRodWIuY29tL3JlcG9zL3dlYnN0b3JlaXpt\naXIvc2l0ZS13ZWJzdG9yZXlhemlsaW0tY29tL2NvbnRlbnRzL3NyYy9kYXRh\nL3NpdGUtY29uZmlnLmpzb24/cmVmPW1haW4iLAogICAgImdpdCI6ICJodHRw\nczovL2FwaS5naXRodWIuY29tL3JlcG9zL3dlYnN0b3JlaXptaXIvc2l0ZS13\nZWJzdG9yZXlhemlsaW0tY29tL2dpdC9ibG9icy84NTFjNzVjYzVlNzRjZjk3\nZDE0NTM2MDc1NWQxMTZkMjQwOTg4MWYyIiwKICAgICJodG1sIjogImh0dHBz\nOi8vZ2l0aHViLmNvbS93ZWJzdG9yZWl6bWlyL3NpdGUtd2Vic3RvcmV5YXpp\nbGltLWNvbS9ibG9iL21haW4vc3JjL2RhdGEvc2l0ZS1jb25maWcuanNvbiIK\nICB9LAogICJtZXRhZGF0YSI6IHsKICAgICJpc1BhaWQiOiB0cnVlLAogICAg\nImRlbW9Nb2RlIjogZmFsc2UsCiAgICAibGFzdFVwZGF0ZSI6ICIyMDI2LTAx\nLTE0VDAzOjI0OjQzLjk1MloiCiAgfQp9\n",
   "encoding": "base64",
   "_links": {
     "self": "https://api.github.com/repos/webstoreizmir/site-webstoreyazilim-com/contents/src/data/site-config.json?ref=main",
-    "git": "https://api.github.com/repos/webstoreizmir/site-webstoreyazilim-com/git/blobs/851c75cc5e74cf97d145360755d116d2409881f2",
+    "git": "https://api.github.com/repos/webstoreizmir/site-webstoreyazilim-com/git/blobs/5453ad5cdcc6be4c09a3b2f0e4eb85f69ff221c9",
     "html": "https://github.com/webstoreizmir/site-webstoreyazilim-com/blob/main/src/data/site-config.json"
   },
   "metadata": {
     "isPaid": true,
     "demoMode": false,
-    "lastUpdate": "2026-01-14T03:24:43.952Z"
+    "lastUpdate": "2026-01-14T03:32:12.556Z"
   }
 }
